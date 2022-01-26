@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @okayblue
-- 🌱 I’m currently learning web development through The Odin Project
+- 🌱 I’m currently learning web development
