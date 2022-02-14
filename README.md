@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @okayblue
+- 👋 Hi, I’m @LynnH95
 - 🌱 I’m currently learning web development
